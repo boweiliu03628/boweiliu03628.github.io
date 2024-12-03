@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on SpiderMan</title>
+    <link>http://localhost:1313/categories/linux/</link>
+    <description>Recent content in Linux on SpiderMan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2024 SpiderMan</copyright>
+    <lastBuildDate>Tue, 19 Nov 2024 17:22:29 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NVIDIA显卡驱动安装与修复</title>
+      <link>http://localhost:1313/many/article1/</link>
+      <pubDate>Tue, 19 Nov 2024 17:22:29 +0800</pubDate>
+      
+      <guid>http://localhost:1313/many/article1/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

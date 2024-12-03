@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manies on SpiderMan</title>
+    <link>http://localhost:1313/many/</link>
+    <description>Recent content in Manies on SpiderMan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2024 SpiderMan</copyright>
+    <lastBuildDate>Tue, 03 Dec 2024 17:51:29 +0800</lastBuildDate><atom:link href="http://localhost:1313/many/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>markdown常见语法</title>
+      <link>http://localhost:1313/many/markdowan%E8%AF%AD%E6%B3%95/</link>
+      <pubDate>Tue, 03 Dec 2024 17:51:29 +0800</pubDate>
+      
+      <guid>http://localhost:1313/many/markdowan%E8%AF%AD%E6%B3%95/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/many/markdowan%E8%AF%AD%E6%B3%95/feature.jpeg" />
+    </item>
+    
+    <item>
+      <title>创建hugo-blog</title>
+      <link>http://localhost:1313/many/article1/</link>
+      <pubDate>Tue, 03 Dec 2024 17:22:29 +0800</pubDate>
+      
+      <guid>http://localhost:1313/many/article1/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/many/article1/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>
